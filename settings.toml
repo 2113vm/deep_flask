@@ -1,0 +1,4 @@
+flask__host = "localhost"
+flask__port = 4567
+
+service__name = "recognizer"
