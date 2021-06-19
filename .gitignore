@@ -128,5 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# IDE configs
+.idea
+
 # Ignore dynaconf secret files
 .secrets.*
